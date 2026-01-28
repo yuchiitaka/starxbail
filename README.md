@@ -13,12 +13,12 @@ Install langsung lewat *npm*:
 ```bash
 npm i starxbail
 ```
-```
+
 🐞 Report Issues
 Jika menemukan bug atau masalah, silakan laporkan melalui GitHub.
-👉 https://github.com/yuchiitaka/starxbail/issues
+👉 [Issue](https://github.com/yuchiitaka/starxbail/issues)
 
 <p align="center">
   <sub>⭐ StarXBail — Baileys Modified WhatsApp Library</sub>
 </p>
-```
+
