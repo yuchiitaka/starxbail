@@ -15,4 +15,4 @@ export * from './use-multi-file-auth-state.js';
 export * from './link-preview.js';
 export * from './event-buffer.js';
 export * from './process-message.js';
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=index.d.ts.map
